@@ -199,7 +199,7 @@ Specializing in fraud detection, fintech analytics, and interactive dashboard de
 | Course | Certificate Link |
 |--------|------------------|
 | Data Analytics | [View Certificate](https://savanna.alxafrica.com/certificates/T95s3SPMxZ) |
-| Data Science | [View Certificate](https://savanna.alxafrica.com/certificates/flJS2ZXs6r) |
+| Data Science | [View Certificate](https://savanna.alxafrica.com/certificates/flJSZ2Xs6r) |
 | Professional Foundations | [View Certificate](https://savanna.alxafrica.com/certificates/RYz9rB28SJ) |
 | Python Programming | [View Certificate](https://savanna.alxafrica.com/certificates/Ee8x6JfGCh) |
 | Machine Learning | [View Certificate](https://savanna.alxafrica.com/certificates/7zsMrEN5m2) |
