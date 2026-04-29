@@ -190,7 +190,7 @@ This project uses the PaySim dataset for portfolio purposes only. The dataset li
 ## Author
 George Onyango Ochieng
 
-Data Analytics | Python Programming | Machine Learning | ICT
+Data Science | Data Analytics | Python Programming | Machine Learning | ICT
 
 Specializing in fraud detection, fintech analytics, and interactive dashboard development using Power BI, Python, and machine learning algorithms.
 
