@@ -93,10 +93,13 @@ George Onyango Ochieng
 
 Data Analyst | Python & Machine Learning | Power BI Developer
 
-Certifications: Data Analytics, Python Programming, Machine Learning, ICT Professional Foundation
+Certifications: Data Analytics, Python Programming, Machine Learning, Data Science, ICT Professional Foundation
 
 Available for freelance data analytics and dashboard development.
 ## Connect with Me
+- Email:georgebabji1220@gmail.com
+- Phone:+254115136359
+- WhatsApp:+254111866769
 - Upwork Profile: https://www.upwork.com/freelancers/~01ea729f5447c9e73b
 - LinkedIn: https://www.linkedin.com/in/george-onyango-5a5906360/
 - GitHub: https://github.com/George-tech-svg/fraud-detection-dashboard-powerbi
