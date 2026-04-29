@@ -146,8 +146,6 @@ text
 | Total Fraud Cases | 8 Thousand |
 | Total Fraud Amount | 12.06 Billion |
 | Fraud Rate | 0.30 Percent |
-| Avg Transaction Amount | Varies |
-| Avg Fraud Amount | Varies |
 
 ### Interactive Filters (Slicers)
 - Transaction Type Filter: CASH_OUT and TRANSFER (dropdown style)
@@ -167,10 +165,8 @@ text
 
 ## Dashboard Insights
 - TRANSFER transactions contain significantly more fraud cases than CASH_OUT
-- High Risk transactions (amount above 200,000) show elevated fraud rates (36%)
+- High Risk transactions (amount above 200,000) show elevated fraud rates
 - Fraud attempts follow a pattern across simulated time steps
-- Evening hours show highest fraud activity
-- Transactions with balance mismatch have higher fraud probability
 
 ## Files in this Repository
 | File | Description |
@@ -186,8 +182,7 @@ text
 2. Open with Power BI Desktop (free version works)
 3. Use the Transaction Type slicer to filter by CASH_OUT or TRANSFER
 4. Use the Risk Score slicer to filter by risk level
-5. Use the Time Category slicer to filter by time of day
-6. Hover over any visual for detailed tooltips
+5. Hover over any visual for detailed tooltips
 
 ## License
 This project uses the PaySim dataset for portfolio purposes only. The dataset license allows non-commercial use.
@@ -199,9 +194,21 @@ Data Analytics | Python Programming | Machine Learning | ICT
 
 Specializing in fraud detection, fintech analytics, and interactive dashboard development using Power BI, Python, and machine learning algorithms.
 
-Certifications completed: Data Analytics (3 months), Python Programming (2.5 months), Machine Learning (4 months), Professional Foundation (3 months)
+## Certifications
 
-## Connect with Me
-- Upwork Profile: (add your link)
-- LinkedIn: (add your link)
-- GitHub: (add your repository link)
+| Course | Certificate Link |
+|--------|------------------|
+| Data Analytics | [View Certificate](https://savanna.alxafrica.com/certificates/T95s3SPMxZ) |
+| Data Science | [View Certificate](https://savanna.alxafrica.com/certificates/flJS2ZXs6r) |
+| Professional Foundations | [View Certificate](https://savanna.alxafrica.com/certificates/RYz9rB28SJ) |
+| Python Programming | [View Certificate](https://savanna.alxafrica.com/certificates/Ee8x6JfGCh) |
+| Machine Learning | [View Certificate](https://savanna.alxafrica.com/certificates/7zsMrEN5m2) |
+
+## Contact Me
+
+- **Call or Text:** +254115136359
+- **WhatsApp:** +254111866769
+- **Email:** georgebabji1220@gmail.com
+- **Upwork:** [View Profile](https://upwork.com/freelancers/~01ea729f5447c9e73b)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/george-onyango-5a5906360/)
+- **GitHub:** [View my projects](https://github.com/George-tech-svg)
