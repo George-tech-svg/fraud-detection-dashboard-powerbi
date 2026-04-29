@@ -1,7 +1,7 @@
 # Fraud Detection Dashboard – Mobile Money Transaction Analysis
 
 ## Live Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard_overview.png)
+![Dashboard Screenshot](dashboard_overview.png)
 
 ## Business Problem
 Mobile money platforms lose millions annually to fraud. This dashboard helps fraud analysts identify high-risk transaction patterns, prioritize alerts, and reduce false positives.
